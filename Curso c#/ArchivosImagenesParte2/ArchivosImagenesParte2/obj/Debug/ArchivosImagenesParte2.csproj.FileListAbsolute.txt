@@ -1,0 +1,19 @@
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\bin\Debug\ArchivosImagenesParte2.exe.config
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\bin\Debug\ArchivosImagenesParte2.exe
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\bin\Debug\ArchivosImagenesParte2.pdb
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.fMain.resources
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.Properties.Resources.resources
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.csproj.GenerateResource.Cache
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.exe
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.pdb
+C:\docs\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.csprojResolveAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\bin\Debug\ArchivosImagenesParte2.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\bin\Debug\ArchivosImagenesParte2.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\bin\Debug\ArchivosImagenesParte2.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.Properties.Resources.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.csproj.GenerateResource.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET16\MegaCurso.NET16\ArchivosImagenesParte2\ArchivosImagenesParte2\obj\Debug\ArchivosImagenesParte2.csprojAssemblyReference.cache

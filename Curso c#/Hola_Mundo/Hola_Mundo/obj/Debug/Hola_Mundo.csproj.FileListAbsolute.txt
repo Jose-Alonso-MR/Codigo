@@ -1,0 +1,14 @@
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.exe.config
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.exe
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.pdb
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.exe
+C:\Users\Alo\Documents\Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.pdb
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.exe.config
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.exe
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.pdb
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.exe
+C:\Users\Alo\Documents\Mega Curso C#\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.pdb

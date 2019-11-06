@@ -1,0 +1,20 @@
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\bin\Debug\GestionClientes.exe.config
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\bin\Debug\GestionClientes.exe
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\bin\Debug\GestionClientes.pdb
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.fMain.resources
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.Properties.Resources.resources
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.csproj.GenerateResource.Cache
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.exe
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.pdb
+c:\docs\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.fCustomer.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\bin\Debug\GestionClientes.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\bin\Debug\GestionClientes.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\bin\Debug\GestionClientes.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.fCustomer.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.Properties.Resources.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.csproj.GenerateResource.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET12\MegaCurso.NET12\GestionClientes\GestionClientes\obj\Debug\GestionClientes.pdb

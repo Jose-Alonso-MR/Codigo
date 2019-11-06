@@ -1,0 +1,13 @@
+c:\docs\MegaCurso.NET04\Test04\Test04\bin\Debug\Test04.exe.config
+c:\docs\MegaCurso.NET04\Test04\Test04\bin\Debug\Test04.exe
+c:\docs\MegaCurso.NET04\Test04\Test04\bin\Debug\Test04.pdb
+c:\docs\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.exe
+c:\docs\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.pdb
+c:\docs\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.csprojResolveAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\bin\Debug\Test04.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\bin\Debug\Test04.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\bin\Debug\Test04.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET04\MegaCurso.NET04\Test04\Test04\obj\Debug\Test04.csprojAssemblyReference.cache

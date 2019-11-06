@@ -1,0 +1,13 @@
+c:\docs\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.exe.config
+c:\docs\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.exe
+c:\docs\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.pdb
+c:\docs\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.csprojResolveAssemblyReference.cache
+c:\docs\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.exe
+c:\docs\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\bin\Debug\AdvancedCollections.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET14\MegaCurso.NET14\AdvancedCollections\AdvancedCollections\obj\Debug\AdvancedCollections.pdb

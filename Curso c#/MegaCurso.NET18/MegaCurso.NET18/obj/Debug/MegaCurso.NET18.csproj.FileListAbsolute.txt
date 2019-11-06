@@ -1,0 +1,19 @@
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\bin\Debug\MegaCurso.NET18.exe.config
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\bin\Debug\MegaCurso.NET18.exe
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\bin\Debug\MegaCurso.NET18.pdb
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.csprojResolveAssemblyReference.cache
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.fMain.resources
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.Properties.Resources.resources
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.csproj.GenerateResource.Cache
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.exe
+c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\bin\Debug\MegaCurso.NET18.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\bin\Debug\MegaCurso.NET18.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\bin\Debug\MegaCurso.NET18.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.Properties.Resources.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.csproj.GenerateResource.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\obj\Debug\MegaCurso.NET18.pdb

@@ -1,0 +1,19 @@
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\bin\Debug\TareasMegaCurso.exe.config
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\bin\Debug\TareasMegaCurso.exe
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\bin\Debug\TareasMegaCurso.pdb
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.csprojResolveAssemblyReference.cache
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.Properties.Resources.resources
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.csproj.GenerateResource.Cache
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.exe
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.pdb
+c:\docs\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\bin\Debug\TareasMegaCurso.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\bin\Debug\TareasMegaCurso.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\bin\Debug\TareasMegaCurso.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.Properties.Resources.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.csproj.GenerateResource.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET05\MegaCurso.NET05\TareasMegaCurso\TareasMegaCurso\obj\Debug\TareasMegaCurso.pdb

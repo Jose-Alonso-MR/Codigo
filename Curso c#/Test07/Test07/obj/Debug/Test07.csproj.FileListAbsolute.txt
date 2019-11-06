@@ -1,0 +1,6 @@
+c:\docs\MegaCurso.NET07\Test07\Test07\bin\Debug\Test07.exe.config
+c:\docs\MegaCurso.NET07\Test07\Test07\bin\Debug\Test07.exe
+c:\docs\MegaCurso.NET07\Test07\Test07\bin\Debug\Test07.pdb
+c:\docs\MegaCurso.NET07\Test07\Test07\obj\Debug\Test07.csprojResolveAssemblyReference.cache
+c:\docs\MegaCurso.NET07\Test07\Test07\obj\Debug\Test07.exe
+c:\docs\MegaCurso.NET07\Test07\Test07\obj\Debug\Test07.pdb

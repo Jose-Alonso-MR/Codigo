@@ -1,0 +1,19 @@
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe.config
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.pdb
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.Properties.Resources.resources
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.GenerateResource.Cache
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.exe
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.pdb
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.fMain.resources
+c:\docs\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\bin\Debug\LaSuperCalculadora.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.Properties.Resources.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.GenerateResource.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET02\MegaCurso.NET02\SuperCalculadora\LaSuperCalculadora\LaSuperCalculadora\obj\Debug\LaSuperCalculadora.pdb

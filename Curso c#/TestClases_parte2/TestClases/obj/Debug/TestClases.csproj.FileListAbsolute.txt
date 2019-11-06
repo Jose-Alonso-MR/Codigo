@@ -1,0 +1,17 @@
+c:\docs\MegaCurso.NET10\TestClases\TestClases\bin\Debug\TestClases.exe.config
+c:\docs\MegaCurso.NET10\TestClases\TestClases\bin\Debug\TestClases.exe
+c:\docs\MegaCurso.NET10\TestClases\TestClases\bin\Debug\TestClases.pdb
+c:\docs\MegaCurso.NET10\TestClases\TestClases\obj\Debug\TestClases.csprojResolveAssemblyReference.cache
+c:\docs\MegaCurso.NET10\TestClases\TestClases\obj\Debug\TestClases.exe
+c:\docs\MegaCurso.NET10\TestClases\TestClases\obj\Debug\TestClases.pdb
+c:\docs\MegaCurso.NET11\TestClases\TestClases\bin\Debug\TestClases.exe.config
+c:\docs\MegaCurso.NET11\TestClases\TestClases\obj\Debug\TestClases.exe
+c:\docs\MegaCurso.NET11\TestClases\TestClases\obj\Debug\TestClases.pdb
+c:\docs\MegaCurso.NET11\TestClases\TestClases\bin\Debug\TestClases.exe
+c:\docs\MegaCurso.NET11\TestClases\TestClases\bin\Debug\TestClases.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET11\MegaCurso.NET11\TestClases\TestClases\bin\Debug\TestClases.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET11\MegaCurso.NET11\TestClases\TestClases\bin\Debug\TestClases.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET11\MegaCurso.NET11\TestClases\TestClases\bin\Debug\TestClases.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET11\MegaCurso.NET11\TestClases\TestClases\obj\Debug\TestClases.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET11\MegaCurso.NET11\TestClases\TestClases\obj\Debug\TestClases.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET11\MegaCurso.NET11\TestClases\TestClases\obj\Debug\TestClases.pdb

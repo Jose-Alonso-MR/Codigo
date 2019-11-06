@@ -1,0 +1,11 @@
+c:\docs\MegaCurso.NET06\Test06\Test06\bin\Debug\Test06.exe.config
+c:\docs\MegaCurso.NET06\Test06\Test06\bin\Debug\Test06.exe
+c:\docs\MegaCurso.NET06\Test06\Test06\bin\Debug\Test06.pdb
+c:\docs\MegaCurso.NET06\Test06\Test06\obj\Debug\Test06.exe
+c:\docs\MegaCurso.NET06\Test06\Test06\obj\Debug\Test06.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET06\MegaCurso.NET06\Test06\Test06\bin\Debug\Test06.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET06\MegaCurso.NET06\Test06\Test06\bin\Debug\Test06.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET06\MegaCurso.NET06\Test06\Test06\bin\Debug\Test06.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET06\MegaCurso.NET06\Test06\Test06\obj\Debug\Test06.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET06\MegaCurso.NET06\Test06\Test06\obj\Debug\Test06.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET06\MegaCurso.NET06\Test06\Test06\obj\Debug\Test06.pdb

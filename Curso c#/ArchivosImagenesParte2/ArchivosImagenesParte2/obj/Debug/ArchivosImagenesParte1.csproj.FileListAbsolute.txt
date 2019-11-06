@@ -1,0 +1,9 @@
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\bin\Debug\ArchivosImagenesParte1.exe.config
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\bin\Debug\ArchivosImagenesParte1.exe
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\bin\Debug\ArchivosImagenesParte1.pdb
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\obj\Debug\ArchivosImagenesParte1.csprojResolveAssemblyReference.cache
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\obj\Debug\ArchivosImagenesParte1.fMain.resources
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\obj\Debug\ArchivosImagenesParte1.Properties.Resources.resources
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\obj\Debug\ArchivosImagenesParte1.csproj.GenerateResource.Cache
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\obj\Debug\ArchivosImagenesParte1.exe
+c:\docs\MegaCurso.NET15\ArchivosImagenesParte1\ArchivosImagenesParte1\obj\Debug\ArchivosImagenesParte1.pdb

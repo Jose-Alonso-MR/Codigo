@@ -1,0 +1,235 @@
+MegaCurso.NET18.vshost.exe Error: 0 : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at MegaCurso.NET18.fMain..ctor() in c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\fMain.cs:line 25
+    DateTime=2015-11-27T18:37:07.7900188Z
+    Callstack=   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Diagnostics.TraceEventCache.get_Callstack()
+   at System.Diagnostics.TraceListener.WriteFooter(TraceEventCache eventCache)
+   at System.Diagnostics.TraceListener.TraceEvent(TraceEventCache eventCache, String source, TraceEventType eventType, Int32 id, String message)
+   at System.Diagnostics.TraceInternal.TraceEvent(TraceEventType eventType, Int32 id, String format, Object[] args)
+   at System.Diagnostics.Trace.TraceError(String message)
+   at MegaCurso.NET18.Log.WriteError(String message) in c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\Log.cs:line 26
+   at MegaCurso.NET18.fMain..ctor() in c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\fMain.cs:line 29
+   at MegaCurso.NET18.Program.Main() in c:\docs\MegaCurso.NET18\MegaCurso.NET18\MegaCurso.NET18\Program.cs:line 19
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+hola qué hase
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+El valor de myText = hola12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849

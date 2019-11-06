@@ -1,0 +1,13 @@
+c:\docs\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\bin\Debug\MegaCurso.NET09.exe.config
+c:\docs\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\bin\Debug\MegaCurso.NET09.exe
+c:\docs\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\bin\Debug\MegaCurso.NET09.pdb
+c:\docs\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.exe
+c:\docs\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.pdb
+c:\docs\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.csprojResolveAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\bin\Debug\MegaCurso.NET09.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\bin\Debug\MegaCurso.NET09.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\bin\Debug\MegaCurso.NET09.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\MegaCurso.NET09\obj\Debug\MegaCurso.NET09.pdb

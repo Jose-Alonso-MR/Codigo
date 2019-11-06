@@ -1,0 +1,19 @@
+c:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\bin\Debug\GestorArchivos.exe.config
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\bin\Debug\GestorArchivos.exe
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\bin\Debug\GestorArchivos.pdb
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.csprojResolveAssemblyReference.cache
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.fMain.resources
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.Properties.Resources.resources
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.csproj.GenerateResource.Cache
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.exe
+C:\docs\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\bin\Debug\GestorArchivos.exe.config
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\bin\Debug\GestorArchivos.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\bin\Debug\GestorArchivos.pdb
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.csprojAssemblyReference.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.fMain.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.Properties.Resources.resources
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.csproj.GenerateResource.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.exe
+C:\Users\Alo\Documents\Nueva carpeta\MegaCurso.NET17\MegaCurso.NET17\GestorArchivos\GestorArchivos\obj\Debug\GestorArchivos.pdb
